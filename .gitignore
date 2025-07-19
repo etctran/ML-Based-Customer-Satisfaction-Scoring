@@ -1,0 +1,6 @@
+zenml-env/ 
+.venv/ 
+__pycache__/ 
+*.pyc 
+mlruns/ 
+.zen/ 
