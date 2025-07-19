@@ -10,7 +10,7 @@ Predicts customer satisfaction based on payment details, product characteristics
 
 ```bash
 # Setup
-git clone <your-repo>
+git clone https://github.com/etctran/ML-Based-Customer-Satisfaction-Scoring
 cd customer-satisfaction
 python -m venv .venv
 .venv\Scripts\activate  # Windows
