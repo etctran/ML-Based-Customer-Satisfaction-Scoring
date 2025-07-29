@@ -37,14 +37,6 @@ Change model in `steps/config.py`:
 model_name = "randomforest"  # or lightgbm, xgboost, linear_regression
 ```
 
-## Results
-
-| Model             | RMSE     | R² Score  |
-| ----------------- | -------- | --------- |
-| **Random Forest** | **1.26** | **0.164** |
-| XGBoost           | 1.30     | 0.109     |
-| LightGBM          | 1.32     | 0.083     |
-| Linear Regression | 1.37     | 0.018     |
 
 ## Project Structure
 
